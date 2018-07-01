@@ -1,7 +1,7 @@
 # Two Chime 🎧
 An Bi-Weekly Music focused newsletter.
 
-## Helpful Resources
-[Tachyons Components](http://tachyons.io/components/) — Copy & paste components directly from the open source components library as a starting point for your project.
+## Created By:
+[Josh Osborne](https://www.instagram.com/joshosbrn/) — Design / Development / Music adder
 
-[Tachyons tl;dr](https://tachyons-tldr.now.sh/) — Quick reference for Tachyons classes. Especially helpful when you're first learning the syntax. Also includes tools for generating your own Tachyons style classes.
+[Joe Letchford](https://www.instagram.com/joeletchford/) — Design / Music adder
